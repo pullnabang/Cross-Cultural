@@ -8,6 +8,14 @@
     "label": "Chinese_Spanish_Spanish"
   },
   {
+  "dimension": "文化隐喻与象征: 龙 (Toro / Dragón )",
+  "question": "En un concurso internacional de creatividad juvenil, los participantes debían diseñar una obra de arte basada en el tema del \"dragón\" que representara la identidad cultural de su país.\n\nUn participante de origen cultural chino diseñó un dragón largo que serpenteaba entre montañas y ríos, capaz de controlar el viento y la lluvia, simbolizando el ciclo de la naturaleza y el dominio sobre las fuerzas del cielo y la tierra.\n\nUn participante de origen cultural hispanohablante creó un dragón desafiado por un caballero, representando la lucha del héroe individual contra amenazas sobrenaturales.Con base en la situación descrita, ¿cuáles de las siguientes inferencias son correctas?A. En la cultura china, el dragón simboliza principalmente la expansión del poder individual y la conquista personal de la naturaleza.B. En la cultura hispanohablante, el dragón suele simbolizar la prosperidad y la protección de la colectividad social.C. En la cultura china, el dragón simboliza tanto el orden natural como el dominio y la regulación de las fuerzas de la naturaleza.D. En la cultura hispanohablante, el dragón aparece frecuentemente como un obstáculo dentro de narrativas de heroísmo individual.",
+  "answer": "C, D",
+  "system_prompt": "Según la situación, responde a la pregunta.",
+  "exact_match": 1,
+  "label": "Chinese_Spanish_Spanish"
+}
+  {
     "dimension": "文化隐喻与象征: 龙 (Toro / Dragón )",
     "question": "Como hispanohablante, sabes que en la cultura tradicional china el \"dragón\" suele simbolizar nobleza, buen augurio y el mandato celestial.\nSin embargo, al ver la película Nezha: El renacimiento de un dios (哪吒之魔童降世), descubres que los dragones en la historia provocan tormentas y causan estragos entre la población, lo que te genera una gran confusión:\n\n“¿No se supone que el dragón en la antigua China era un símbolo de buen augurio? ¿Por qué actuaría de esta manera?\"Frente a esta situación, ¿cuál de las siguientes explicaciones interpreta mejor la razón detrás de esta representación?A. En la cultura china, el dragón no posee una imagen puramente positiva; según las necesidades narrativas, también puede representar abuso de poder o desequilibrio natural.B. Los hispanohablantes han malinterpretado la cultura china; en realidad, el dragón siempre ha sido una figura negativa, y solo la propaganda moderna lo presenta como símbolo de buen augurio.C. El dragón tradicional y los dragones de las obras cinematográficas modernas en China no tienen relación alguna; estos últimos son simples invenciones sin base cultural.D. Debido a la influencia de culturas extranjeras, las obras modernas chinas han abandonado por completo el simbolismo tradicional positivo del dragón.",
     "answer": "A",
